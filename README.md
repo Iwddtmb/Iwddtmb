@@ -1,6 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#36BCF7&lines=Angelina+Dorofeeva!)](https://git.io/typing-svg)
 
-<!--
 **Iwddtmb/Iwddtmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
